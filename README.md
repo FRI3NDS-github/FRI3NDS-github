@@ -24,22 +24,6 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="25" height="25" />
 
-<br />
 
 
 
-<details>
-<summary>:balb: Github Stats</summary>
-<img scr="https://github-readme-stats.vercel.app/api?username=FRI3NDS-github&theme=radical">
-</details>
-<details>
-<summary>:balb: Most Used Langueges</summary>
-<img scr="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-
-
-<h3 align="left">Sosyal Medya:</h3>
-<p align="left">
-<a href="https://www.instagram.com/wq.kaan_yagiz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wq.kaan_yagiz" height="30" width="40" /></a>
-<a href="https://t.me/FRI3NDS_ISTIYOR_SEX" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="FRI3NDS_ISTIYOR_SEX" height="30" width="40" /></a>
-
- 
