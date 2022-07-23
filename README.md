@@ -9,9 +9,9 @@
 
 ### Reach out to me 
 
-[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
+[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />](https://instagram.com/h10.official_65)
 
-[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/telegram.svg" align="left" />][telegram]
+[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/telegram.svg" align="left" />](https://t.me/FRI3NDS_ISTIYOR_SEX)
 
 <br />
 <br />
